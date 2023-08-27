@@ -8,6 +8,37 @@
 
 </div>
 
+<img align="right" height="250" width="400" alt="Samsul Alam" src="https://cdn.dribbble.com/users/1166566/screenshots/3549644/media/149863a22ab28b6f95e9857107efaea6.gif" />
+
+<img align="right" alt="Coding" height="250" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+
+### 🛠 Languages and Tools:
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript) -->
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![Router](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
+<!-- ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)  -->
+![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
+<!-- ![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass) -->
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=0078D6)
+![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
+<!-- ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC) -->
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&logoColor=3D0091)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=0078D6)
+
 
 
 
