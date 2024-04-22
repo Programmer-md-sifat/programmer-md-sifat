@@ -90,10 +90,10 @@
 <div class="stats" align="center">
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mshsifat&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=Programmer-md-sifat&count_private=true&theme=algolia&border_radius=20)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshsifat&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-md-sifat&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
 </div>
 
