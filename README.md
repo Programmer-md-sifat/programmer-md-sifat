@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://md-sifat.blogspot.com/)
 <h1 align="center">Hi 👋, I'm Md. Shahadat Hasan Sifat</h1>
 <h3 align="center">A passionate Full Stack Web developer from Bangladesh</h3>
 
@@ -17,6 +16,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
+![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript) -->
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
@@ -25,6 +25,8 @@
 ![Router](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=0078D6)
 <!-- ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)  -->
 <!-- ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
