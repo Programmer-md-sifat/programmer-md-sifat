@@ -23,15 +23,17 @@
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Router](https://img.shields.io/badge/-Router-000000?style=flat&logo=react-router)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 <!-- ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)  -->
-![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
+<!-- ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
 <!-- ![Sass](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass) -->
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap)
+<!-- ![Bootstrap5](https://img.shields.io/badge/-Bootstrap%205-000000?style=flat&logo=bootstrap)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=0078D6)
 ![Tailwind-Css](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
 <!-- ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC) -->
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome)
+<!-- ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=565656)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
