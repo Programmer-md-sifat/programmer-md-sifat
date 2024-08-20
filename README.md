@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Shahadat Hasan Sifat</h1>
-<h3 align="center">A Passionate Animational Front-End Web developer from Bangladesh</h3>
+<h3 align="center">A Passionate Front-End Web developer from Bangladesh</h3>
 
 <div class="stats" align="center" >
     
