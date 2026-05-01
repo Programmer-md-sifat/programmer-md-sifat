@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Md. Shahadat Hasan Sifat</h1>
-<h3 align="center">A Passionate Front-End Web developer from Bangladesh</h3>
+<h3 align="center">A Passionate UI & UX Focused Front-End Web developer</h3>
 
-<div class="stats" align="center" >
-    
-![Programmer.md.sifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Programmer-md-sifat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
+<div align="center">
+  <img alt="Coding" height="400" width="550" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </div>
-
-<img align="right" height="250" width="400" alt="Samsul Alam" src="https://cdn.dribbble.com/users/1166566/screenshots/3549644/media/149863a22ab28b6f95e9857107efaea6.gif" />
-
-<img align="right" alt="Coding" height="250" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 
 ### 🛠 Languages and Tools:
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
@@ -27,6 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=0078D6)
+
 <!-- ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)  -->
 <!-- ![NodeJs](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
@@ -81,6 +78,7 @@
 
 
 <!-- Statistics -->
+
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
